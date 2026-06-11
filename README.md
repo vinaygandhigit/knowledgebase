@@ -1,6 +1,6 @@
 # Knowledge Intelligence (RAG) Platform (FastAPI + ChromaDB + Claude)
 
-Production-ready Knowledge Intelligence (RAG) platform with ingestion, hybrid search, and LLM response generation
+Transform Enterprise Documents into an AI-Powered Knowledge Intelligence Platform with ingestion, hybrid search, and LLM response generation
 
 ## Features
 
