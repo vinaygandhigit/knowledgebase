@@ -1,0 +1,1 @@
+All chromadb related files like chunking, index and embedding are created/updated in this folder

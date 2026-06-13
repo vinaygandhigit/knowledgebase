@@ -1,0 +1,2 @@
+{"id":"products_count","query":"How many products are deployed in the production and what are they?","expected_answer":"Three products are deployed: Identity Server, API Manager, and API Gateway.","expected_keywords":["Identity Server","API Manager","API Gateway"],"expected_files":["architecture.md"]}
+{"id":"architecture_pptx_components","query":"Show the architecture components of product","expected_keywords":["architecture","component"],"expected_files":["product_architecture.pptx"]}  
